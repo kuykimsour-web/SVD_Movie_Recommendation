@@ -1,6 +1,6 @@
 # SVD for Movie Recommendation Systems
 
-## Project II --- Singular Value Decomposition (SVD) and Its Applications
+## Project Singular Value Decomposition (SVD) and Its Applications
 
 ### Project Topic
 
